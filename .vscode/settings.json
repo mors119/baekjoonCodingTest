@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "javascript": "node $fileName < -input.txt"
+  },
+  "code-runner.runInTerminal": true
+}
